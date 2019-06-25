@@ -1,0 +1,50 @@
+[
+  {
+    "ParameterKey": "DBAllocatedStorage",
+    "ParameterValue": "5"
+  },
+  {
+    "ParameterKey": "DBInstanceClass",
+    "ParameterValue": "db.t2.small"
+  },
+  {
+    "ParameterKey": "DBName",
+    "ParameterValue": "myDatabase"
+  },
+  {
+    "ParameterKey": "DBPassword",
+    "ParameterValue": "verbatim"
+  },
+  {
+    "ParameterKey": "DBUser",
+    "ParameterValue": "tah"
+  },
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.small"
+  },
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "LAMP_Multi_AZ_Keys"
+  },
+  {
+    "ParameterKey": "MultiAZDatabase",
+    "ParameterValue": "false"
+  },
+  {
+    "ParameterKey": "SSHLocation",
+    "ParameterValue": "0.0.0.0/0"
+  },
+  {
+    "ParameterKey": "Subnets",
+    "ParameterValue": "subnet-8bc9f4f0, subnet-a91b66e4"
+  },
+  {
+    "ParameterKey": "VpcId",
+    "ParameterValue": "vpc-aa8571c2"
+  },
+  {
+    "ParameterKey": "WebServerCapacity",
+    "ParameterValue": "2"
+  }
+]
