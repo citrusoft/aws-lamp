@@ -13,11 +13,11 @@
   },
   {
     "ParameterKey": "DBPassword",
-    "ParameterValue": "verbatim"
+    "ParameterValue": "suf1ngU$A"
   },
   {
     "ParameterKey": "DBUser",
-    "ParameterValue": "tah"
+    "ParameterValue": "admin"
   },
   {
     "ParameterKey": "InstanceType",
